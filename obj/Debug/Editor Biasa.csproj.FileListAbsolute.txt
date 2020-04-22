@@ -1,0 +1,23 @@
+D:\TUGAS\SEMESTER 6\Pengolahan Citra dan Visi Komputer\PROYEK AKHIR\PROJECT\Editor Biasa\bin\Debug\Editor Biasa.exe.config
+D:\TUGAS\SEMESTER 6\Pengolahan Citra dan Visi Komputer\PROYEK AKHIR\PROJECT\Editor Biasa\bin\Debug\Editor Biasa.exe
+D:\TUGAS\SEMESTER 6\Pengolahan Citra dan Visi Komputer\PROYEK AKHIR\PROJECT\Editor Biasa\bin\Debug\Editor Biasa.pdb
+D:\TUGAS\SEMESTER 6\Pengolahan Citra dan Visi Komputer\PROYEK AKHIR\PROJECT\Editor Biasa\obj\Debug\Editor_Biasa.Properties.Resources.resources
+D:\TUGAS\SEMESTER 6\Pengolahan Citra dan Visi Komputer\PROYEK AKHIR\PROJECT\Editor Biasa\obj\Debug\Editor Biasa.csproj.GenerateResource.cache
+D:\TUGAS\SEMESTER 6\Pengolahan Citra dan Visi Komputer\PROYEK AKHIR\PROJECT\Editor Biasa\obj\Debug\Editor Biasa.csproj.CoreCompileInputs.cache
+D:\TUGAS\SEMESTER 6\Pengolahan Citra dan Visi Komputer\PROYEK AKHIR\PROJECT\Editor Biasa\obj\Debug\Editor Biasa.exe
+D:\TUGAS\SEMESTER 6\Pengolahan Citra dan Visi Komputer\PROYEK AKHIR\PROJECT\Editor Biasa\obj\Debug\Editor Biasa.pdb
+D:\TUGAS\SEMESTER 6\Pengolahan Citra dan Visi Komputer\PROYEK AKHIR\PROJECT\Editor Biasa\obj\Debug\Editor_Biasa.OptionsForm.resources
+D:\TUGAS\SEMESTER 6\Pengolahan Citra dan Visi Komputer\PROYEK AKHIR\PROJECT\Editor Biasa\obj\Debug\Editor_Biasa.MainForm.resources
+D:\TUGAS\SEMESTER 6\Pengolahan Citra dan Visi Komputer\PROYEK AKHIR\PROJECT\Editor Biasa\obj\Debug\Editor_Biasa.Histogram.resources
+D:\TUGAS\SEMESTER 6\Pengolahan Citra dan Visi Komputer\PROYEK AKHIR\PROJECT\Editor Biasa\obj\Debug\Editor Biasa.csprojAssemblyReference.cache
+C:\Users\bagas\Downloads\Editor Biasa\Editor Biasa\bin\Debug\Editor Biasa.exe.config
+C:\Users\bagas\Downloads\Editor Biasa\Editor Biasa\bin\Debug\Editor Biasa.exe
+C:\Users\bagas\Downloads\Editor Biasa\Editor Biasa\bin\Debug\Editor Biasa.pdb
+C:\Users\bagas\Downloads\Editor Biasa\Editor Biasa\obj\Debug\Editor Biasa.csprojAssemblyReference.cache
+C:\Users\bagas\Downloads\Editor Biasa\Editor Biasa\obj\Debug\Editor_Biasa.Histogram.resources
+C:\Users\bagas\Downloads\Editor Biasa\Editor Biasa\obj\Debug\Editor_Biasa.MainForm.resources
+C:\Users\bagas\Downloads\Editor Biasa\Editor Biasa\obj\Debug\Editor_Biasa.OptionsForm.resources
+C:\Users\bagas\Downloads\Editor Biasa\Editor Biasa\obj\Debug\Editor_Biasa.Properties.Resources.resources
+C:\Users\bagas\Downloads\Editor Biasa\Editor Biasa\obj\Debug\Editor Biasa.csproj.GenerateResource.cache
+C:\Users\bagas\Downloads\Editor Biasa\Editor Biasa\obj\Debug\Editor Biasa.exe
+C:\Users\bagas\Downloads\Editor Biasa\Editor Biasa\obj\Debug\Editor Biasa.pdb
